@@ -1,1 +1,3 @@
-export { columnData, rows2columns, unique } from "./array"
+export * from "./array"
+export * from "./clone"
+export * from "./obj"
